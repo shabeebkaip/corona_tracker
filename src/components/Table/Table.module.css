@@ -1,0 +1,5 @@
+.table{
+    display: flex;
+    align-items: center;
+    width:85% !important;
+}
